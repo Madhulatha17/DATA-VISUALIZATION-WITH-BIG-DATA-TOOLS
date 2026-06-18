@@ -1,0 +1,9 @@
+order_id,product,category,region,sales,profit,date
+1,Laptop,Electronics,South,50000,8000,2024-01-01
+2,Phone,Electronics,North,20000,3000,2024-01-02
+3,Shoes,Fashion,East,3000,500,2024-01-03
+4,Watch,Fashion,West,5000,800,2024-01-04
+5,Book,Education,South,1000,200,2024-01-05
+6,Laptop,Electronics,East,55000,9000,2024-01-06
+7,Phone,Electronics,West,22000,3500,2024-01-07
+8,Shirt,Fashion,North,2500,400,2024-01-08
